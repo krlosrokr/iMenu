@@ -1,0 +1,9 @@
+D:\Dev\Rage\Projects\iMenu\iMenu\iMenu\bin\Debug\iMenu.dll
+D:\Dev\Rage\Projects\iMenu\iMenu\iMenu\bin\Debug\iMenu.pdb
+D:\Dev\Rage\Projects\iMenu\iMenu\iMenu\bin\Debug\ScriptHookVDotNet2.dll
+D:\Dev\Rage\Projects\iMenu\iMenu\iMenu\bin\Debug\ScriptHookVDotNet2.xml
+D:\Dev\Rage\Projects\iMenu\iMenu\iMenu\obj\Debug\iMenu.csproj.AssemblyReference.cache
+D:\Dev\Rage\Projects\iMenu\iMenu\iMenu\obj\Debug\iMenu.csproj.CoreCompileInputs.cache
+D:\Dev\Rage\Projects\iMenu\iMenu\iMenu\obj\Debug\iMenu.csproj.CopyComplete
+D:\Dev\Rage\Projects\iMenu\iMenu\iMenu\obj\Debug\iMenu.dll
+D:\Dev\Rage\Projects\iMenu\iMenu\iMenu\obj\Debug\iMenu.pdb
